@@ -127,3 +127,6 @@ Build ZK apps on ZKsync Era.
 
 Get ready to **build** on ZKsync at Buildathon 2025!
 
+Sign up for the Hackathon: [Buidlathon 2025 Registration]https://ethdenver2025.devfolio.co/
+Join ZKsync Builders TG Chat: [Builders Hub](https://t.me/+mtCv5HCBCnY4YjY0)
+
