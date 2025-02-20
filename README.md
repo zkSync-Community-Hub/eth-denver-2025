@@ -99,7 +99,7 @@ Build ZK apps on ZKsync Era.
 ---
 
 ## Developer Tools
-- [Foundry ZKsync Overview](https://docs.zksync.io/zksync-era/tooling/foundry/overview)
+- [Foundry ZKsync Book](https://foundry-book.zksync.io/)
 - [Run Anvil-ZKsync for Local Development](https://docs.zksync.io/zksync-era/tooling/local-setup/anvil-zksync-node)
 - [Hardhat Plugin Overview](https://docs.zksync.io/zksync-era/tooling/hardhat)
 - [ZKsync SSO Getting Started](https://docs.zksync.io/zksync-era/unique-features/zksync-sso/getting-started)
